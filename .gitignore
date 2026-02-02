@@ -1,0 +1,27 @@
+# ========== 构建产物（不提交）==========
+product/
+SPM-Output/
+
+# ========== Xcode ==========
+*.xcworkspace/
+*.xcodeproj/
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+
+# ========== 系统文件 ==========
+.DS_Store
+*.swp
+*~.nib
+
+# ========== SPM ==========
+.swiftpm/
+.build/
+
+# ========== 其他 ==========
+*.log
+*.tmp

@@ -1,0 +1,240 @@
+"kBtInitLoadingTip" = "初始化完毕,正在加载中······";
+
+"kBtRealNameTip" = "亲爱的玩家，您的账号尚未完成实名认证，请补充身份信息。\n身份信息填写后不可更改，请谨慎填写。";
+
+"kBtRealNameBottomTip" = "您的身份证信息仅用于实名认证，我们将不会用于其它任何用途。";
+
+"kBtRealNameProtocolText" = "根据《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》，18岁以下未成年人只可以在周五、周六、周日和法定节假日的20时至21时体验游戏服务。";
+
+"kBtTiantiInputTip" = "请输入趣糖账号";
+
+"kBtTiantiInputTip" = "请输入趣糖账号";
+
+"kBtActiveNameTip" = "游戏正在进行限号测试";
+
+"kBtActiveNameBottomTip" = "获取激活码方式详见官网";
+
+"kBtActiveNamePlaceText" = "请输入激活码激活游戏";
+
+"kBtActiveErrorText" = "激活码不能为空";
+
+"kBtActiveCommitText" = "激 活";
+
+"kBtNativePhoneLoginText" = "手 机 号 登 录";
+
+"kAgreeProtocolText" = "注册表示您同意趣糖用户协议";
+
+"kBtNativeChooseOtherLoginText" = "请选择其它登录方式";
+
+"kBtNativePwdErrorMsgTip" = "密码为6~16个字符";
+
+"kBtNativeEqualPwdErrorMsgTip" = "两次密码不一致";
+
+"kBtNativeOtherLoginBtnText" = "其它账号登录";
+
+"kBtNativeLoginBtnText" = "登 录";
+
+"kBtNativeTapBindBtnText" = "绑 定";
+
+"kBtNativeRegBtnText" = "注 册";
+
+"kBtPhoneNumTip" = "请输入11位手机号";
+
+"kBtPwdInputTip" = "请输入密码";
+
+"kBtForgetPwdTip" = "忘记密码";
+
+"kBtPhoneIdentTip" = "请输入验证码";
+
+"kBtPhoneNumIsNullTip" = "请输入手机号";
+
+"kBtPhoneNumIsValidateTip" = "手机号格式错误";
+
+"kBtGetIdentText" = "获取验证码";
+
+"kBtReGetIdentText" = "重新获取";
+
+"kBtIdentErrorTip" = "请输入验证码";
+
+"kBtAgreeTiantiTip" = "请先阅读并同意用户协议和隐私协议";
+
+"kBtRealNameInputTip" = "请输入姓名";
+
+"kBtRealIdentCardInputTip" = "请输入身份证号";
+
+"kBtRealUserNameInputTip" = "请输入您的用户名";
+
+"kBtLoginAccountTip" = "用户名格式有误";
+
+"kBtRealIdentCardErrorTip" = "请输入您的身份证号码";
+
+"kBtRealCreditCardErrorText" = "身份证号码格式不正确";
+
+"kBtTiantiPwdLoginTip" = "请输入用户名/手机/邮箱";
+
+"kBtRealCommitText" = "确定认证";
+
+"kBtFindPwdFromPhoneBtnText" = "通过手机";
+
+"kBtFindPwdFromEmailBtnText" = "通过邮箱";
+
+"kBtFindPwdFromCustomerBtnText" = "通过客服";
+
+"kBtBindPhoneTitleTip" = "绑定手机号";
+
+"kBtBindPhoneInputTip" = "请输入绑定手机号";
+
+"kBtNewPwdInputTip" = "请输入新密码";
+
+"kBtReNewPwdInputTip" = "请确认新密码";
+
+"kBtUpdatePwdBtnText" = "更换密码";
+
+"kBtEmailInputTip" = "请输入绑定邮箱";
+
+"kBtPwdEmailTip" = "您正在通过邮箱找回密码······";
+
+"kBtSendEmailBtnTip" = "发送邮件";
+
+"kBtGuestTitleText" = "账号升级";
+
+"kBtGuestTipText" = "您当前使用的账号为游客账号，容易遗失且不方便记忆，建议您进行账号升级。账号升级后不会改变您原游客账号上的所有信息";
+
+"kBtGuestLaterBtnText" = "以后再说";
+
+"kBtGuestNowBtnText" = "立即升级";
+
+"kBtMemberBindBtnText" = "改绑手机";
+
+"kBtHaveLocalAccountBtnText" = "已登录账号";
+
+"kBtGuestAccountBtnText" = "游客登录";
+
+"kBtDefaultPwdText" = "666666"; //web骚操作666666
+
+"kBtCommitBtnText" = "提交";
+
+"kBtUnBindPhoneTip" = "我们已向%@发送了安全验证短信，请在下方输入验证码进行验证";
+
+"kBtBindPhoneTip" = "正在为您改绑新手机号:";
+
+"kBtBindNewPhoneInputTip" = "请输入新手机号";
+
+"kBtUserProtocolTip" = "《用户协议》";
+
+"kBtUserPrivicyTip" = "《隐私政策》";
+
+"kBtActivePhoneLinkTip" = "获取测试资格方式详见官网";
+
+"kBtActivePhoneLoadingTip" = "正在激活测试资格";
+
+"kBtActiveExchangeBtnTitle" = "切换账号";
+
+"kBtAlertPayLinkTip" = "尊敬的玩家，根据国家新闻出版署发布《关于防止未成年人沉迷网络游戏的通知》，18岁以下未成年人在游戏内消费将受到支付金额限制。";
+
+"kBtAlertAddictLinkTip" = "根据国家新闻出版署发布《关于防止未成年人沉迷网络游戏的通知》《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》，18岁以下未成年人仅可在周五、周六、周日和法定节假日的20时至21时体验游戏。为了不影响您的游戏体验，请尽快完善信息。实名信息经认证后无法进行修改，请谨慎填写。";
+
+"kBtAlertTipLinkText" = "《关于防止未成年人沉迷网络游戏的通知》《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》";
+
+"kBtAlertTiDefaultText" = "如有疑问请联系客服。";
+
+"kBtAlertTiDefaultTitle" = "温馨提示";
+
+"kOtherLoginTypeText" = "其它登录方式";
+
+"kTiantiLoginType" = "趣糖";
+
+"kWechatLoginType" = "微信";
+
+"kQQLoginType" = "QQ";
+
+"kWeiboLoginType" = "微博";
+
+"kAppleLoginType" = "Apple";
+
+"kTapTapLoginType" = "Taptap";
+
+"kTiantiUserCenter" = "趣糖用户中心";
+
+"permissionPolicy" = "趣糖游戏许可及服务协议";
+
+"privatePolicy" = "趣糖游戏隐私政策";
+
+"kHaveReadPrivatePolicy" = "已阅读并同意《用户协议》和《隐私政策》";
+
+"kAlertConfirmPrivatePolicy" = "进入下一步前，请先阅读并同意《用户协议》和《隐私政策》";
+
+"kGameLimitUserTest" = "游戏限号测试";
+
+"kChangeDeviceTip" = "(请更换设备登录或切换账号)";
+
+"kBindSuccess" = "绑定成功";
+
+"kButtonCommit" = "确定";
+
+"kButtonCancle" = "取消";
+
+"kTiantiGameProtocol" = "《趣糖游戏许可及服务协议》";
+
+"kPhoneNumLoginText" = "并使用本机号码登录";
+
+"kReadProtocolTip" = "请先阅读并同意用户协议";
+
+"kPhoneLoginFailTip" = "登录失败，请检查蜂窝网络后重试或使用其他账号登录";
+
+"kPhoneNumLogin" = "本机号码一键登录";
+
+"kPhoneNumAlertTitle" = "请阅读并同意以下条款";
+
+"kPhoneNumAlertBtnText" = "同意并继续";
+
+"kRealNameing" = "(实名认证中)";
+
+"kWelcomTip" = ",欢迎进入游戏!";
+
+"kFindPwdText" = "已绑定手机的玩家，可以通过短信登录";
+
+"kBtnMsgLoginText" = "短信登录";
+
+"kBtnFindPwdText" = "找回密码";
+
+"kBtnIntelligentCustomerText" = "智能客服";
+
+"kAlertAccountLimitText" = "游戏限号测试";
+
+"kAlertAccountExchangeTip" = "(请更换设备登录或切换账号)";
+
+"kAlertExchangeAccount" = "切换账号";
+
+"kAlertAccountBindText" = "是否绑定手机号";
+
+"kAlertAccountBindTip" = "绑定后可通过短信验证登录";
+
+"kAlertBtnJump" = "跳过";
+
+"kAlertBtnCommit" = "确定";
+
+"kAlertBtnDelAccountText" = "是否删除该账号的登录记录";
+
+"kAlertDelCacheText" = "（账号数据保留）";
+
+"kAlertBtnCancle" = "取消";
+
+"kAlertBtnCommitDel" = "确认删除";
+
+"kAccountCancleTip" = "您的账号正在注销中，可前往【天梯用户中心-注销】取消注销申请";
+
+"kQrScanTip" = "温馨提示";
+
+"kQrScanCameraSetupTitle" = "您的相机功能好像有问题哦，去设置->隐私->相机，开启一下吧";
+
+"kQrScanLoginCommit" = "确认登录";
+
+"kQrScanVcTitle" = "扫码登录";
+
+"kQrScanLoginTip" = "您将授权另一台设备登录%@账号，请确认是本人操作";
+
+"kBtZcTokenValidTip" = "登录态已失效，请重新登录";
+
+"kBtSdkEnvTip" = "测试环境版本，请勿对外发布！";
+
