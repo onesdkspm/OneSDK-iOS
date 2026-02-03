@@ -95,9 +95,10 @@ let package = Package(
                 .linkedLibrary("resolv"),
                 .linkedLibrary("z"),
                 
-                // 弱引用框架（iOS 12+ 可选）
-                .unsafeFlags(["-weak_framework", "Network"]),
-                .unsafeFlags(["-weak_framework", "AdServices"]),
+                
+                // iOS 13+ 可用框架
+                .linkedFramework("Network"),
+                .linkedFramework("AdServices"),
             ]
         ),
         
