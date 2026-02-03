@@ -11,12 +11,12 @@ let package = Package(
             targets: ["OneSDKWrapper", "CommonResources"]
         ),
         
-        // 皮肤产品
-        .library(name: "OneSDKTianti", targets: ["OneSDKCore", "TiantiResources"]),
-        .library(name: "OneSDKHappymaker", targets: ["OneSDKCore", "HappymakerResources"]),
-        .library(name: "OneSDKQutang", targets: ["OneSDKCore", "QutangResources"]),
-        .library(name: "OneSDKPjm", targets: ["OneSDKCore", "PjmResources"]),
-        .library(name: "OneSDKHiddentianti", targets: ["OneSDKCore", "HiddentiantiResources"]),
+        // 皮肤产品（每个包含完整 SDK + 对应皮肤资源）
+        .library(name: "OneSDKTianti", targets: ["OneSDKWrapper", "CommonResources", "TiantiResources"]),
+        .library(name: "OneSDKHappymaker", targets: ["OneSDKWrapper", "CommonResources", "HappymakerResources"]),
+        .library(name: "OneSDKQutang", targets: ["OneSDKWrapper", "CommonResources", "QutangResources"]),
+        .library(name: "OneSDKPjm", targets: ["OneSDKWrapper", "CommonResources", "PjmResources"]),
+        .library(name: "OneSDKHiddentianti", targets: ["OneSDKWrapper", "CommonResources", "HiddentiantiResources"]),
     ],
     targets: [
         // ========== Wrapper Target（统一管理系统依赖）==========
@@ -95,9 +95,10 @@ let package = Package(
                 .linkedLibrary("resolv"),
                 .linkedLibrary("z"),
                 
-                // 弱引用框架（iOS 12+ 可选）
-                .unsafeFlags(["-weak_framework", "Network"]),
-                .unsafeFlags(["-weak_framework", "AdServices"]),
+                
+                // iOS 13+ 可用框架
+                .linkedFramework("Network"),
+                .linkedFramework("AdServices"),
             ]
         ),
         
