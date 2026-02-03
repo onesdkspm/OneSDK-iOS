@@ -12,11 +12,11 @@ let package = Package(
         ),
         
         // 皮肤产品
-        .library(name: "OneSDKTianti", targets: ["OneSDKCore", "TiantiResources"]),
-        .library(name: "OneSDKHappymaker", targets: ["OneSDKCore", "HappymakerResources"]),
-        .library(name: "OneSDKQutang", targets: ["OneSDKCore", "QutangResources"]),
-        .library(name: "OneSDKPjm", targets: ["OneSDKCore", "PjmResources"]),
-        .library(name: "OneSDKHiddentianti", targets: ["OneSDKCore", "HiddentiantiResources"]),
+        .library(name: "OneSDKTianti", targets: ["OneSDKWrapper", "CommonResources", "TiantiResources"]),
+        .library(name: "OneSDKHappymaker", targets: ["OneSDKWrapper", "CommonResources", "HappymakerResources"]),
+        .library(name: "OneSDKQutang", targets: ["OneSDKWrapper", "CommonResources", "QutangResources"]),
+        .library(name: "OneSDKPjm", targets: ["OneSDKWrapper", "CommonResources", "PjmResources"]),
+        .library(name: "OneSDKHiddentianti", targets: ["OneSDKWrapper", "CommonResources", "HiddentiantiResources"]),
     ],
     targets: [
         // ========== Wrapper Target（统一管理系统依赖）==========
