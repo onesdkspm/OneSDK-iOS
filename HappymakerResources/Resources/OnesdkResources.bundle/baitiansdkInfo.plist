@@ -102,20 +102,20 @@
 	<key>AccountCenterDomain</key>
 	<dict>
 		<key>AccountCenterDomainUrl</key>
-		<string>https://account.happymaker.com.cn/usernavcenter</string>
+		<string>https://account.happymaker.com.cn/bmy/usernavcenter</string>
 		<key>AccountCenterDomainDebugUrl</key>
-		<string>https://account-test.happymaker.com.cn/usernavcenter</string>
+		<string>https://account-test.happymaker.com.cn/bmy/usernavcenter</string>
 	</dict>
 	<key>PolicyDomain</key>
 	<dict>
 		<key>PolicyProtocolUrl</key>
-		<string>https://static.happymaker.com.cn/policy/juyu/protocol_game.html?t=</string>
+		<string>https://static.happymaker.com.cn/policy/pjf/protocol_game.html?t=</string>
 		<key>PolicyProtocolDebugUrl </key>
-		<string>https://static-test.happymaker.com.cn/policy/juyu/protocol_game.html?t=</string>
+		<string>https://static-test.happymaker.com.cn/policy/pjf/protocol_game.html?t=</string>
 		<key>PolicyPrivacyUrl</key>
-		<string>https://static.happymaker.com.cn/policy/juyu/privacy_game.html?t=</string>
+		<string>https://static.happymaker.com.cn/policy/pjf/privacy_game.html?t=</string>
 		<key>PolicyPrivacyDebugUrl</key>
-		<string>https://static-test.happymaker.com.cn/policy/juyu/privacy_game.html?t=</string>
+		<string>https://static-test.happymaker.com.cn/policy/pjf/privacy_game.html?t=</string>
 		<key>PolicyPrivacyAddictUrl</key>
 		<string>https://static.happymaker.com.cn/yducaccount/wap/html/privacy_game.html?t=</string>
 		<key>PolicyPrivacyAddictDebugUrl</key>
@@ -124,9 +124,9 @@
 	<key>AccountResetPasswdDomain</key>
 	<dict>
 		<key>AccountResetPasswdDomainUrl</key>
-		<string>https://account.happymaker.com.cn/accountcenter/#</string>
+		<string>https://account.happymaker.com.cn/bmy/accountcenter/#</string>
 		<key>AccountResetPasswdDomainDebugUrl</key>
-		<string>https://account-test.happymaker.com.cn/accountcenter/#</string>
+		<string>https://account-test.happymaker.com.cn/bmy/accountcenter/#</string>
 	</dict>
 	<key>CanaryDomain</key>
 	<dict>
@@ -145,7 +145,7 @@
 	<key>ScoreServiceDomain</key>
 	<dict>
 		<key>ScoreServiceDomainUrl</key>
-		<string>https:/score-config.happymaker.com.cn</string>
+		<string>https://score-config.happymaker.com.cn</string>
 		<key>ScoreServiceDomainDebugUrl</key>
 		<string>http://score-config-test.happymaker.com.cn</string>
 	</dict>
@@ -176,5 +176,12 @@
 	</dict>
 	<key>ClientDataHubUrl</key>
 	<string>https://client-datahub.happymaker.com.cn</string>
+	<key>DeletionAccountDomain</key>
+	<dict>
+		<key>DeletionAccountDomainUrl</key>
+		<string>https://account.happymaker.com.cn/bmy/accountcenter/#/delete-account</string>
+		<key>DeletionAccountDomainDebugUrl</key>
+		<string>https://account-test.happymaker.com.cn/bmy/accountcenter/#/delete-account</string>
+	</dict>
 </dict>
 </plist>
