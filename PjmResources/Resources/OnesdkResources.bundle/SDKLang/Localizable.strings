@@ -181,6 +181,19 @@
 "kReadProtocolTip" = "请先阅读并同意用户协议";
 
 "kPhoneLoginFailTip" = "登录失败，请检查蜂窝网络后重试或使用其他账号登录";
+"kPhoneLoginCheckSimTip" = "请安装SIM卡";
+"kPhoneLoginCheckNetworkTip" = "请检查移动网络开启后重试";
+"kPhoneLoginServiceUnavailableTip" = "当前服务暂时不可用，请使用其它方式登录";
+
+"kOneKeyLoginGuideTitle" = "温馨提示";
+
+"kOneKeyLoginGuideSubtitle" = "体验本机号码一键登录，免验证码！";
+
+"kOneKeyLoginGuideContent" = "1. 请确认打开移动网络（关闭Wi-Fi更稳定）\n2. 请确认当前流量卡的号码作为“本机号码”登录\n3. 点击下方本机号码一键登录";
+
+"kOneKeyLoginGuideCancel" = "取消";
+
+"kOneKeyLoginGuideConfirm" = "本机号码一键登录";
 
 "kPhoneNumLogin" = "本机号码一键登录";
 
