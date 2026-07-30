@@ -166,9 +166,16 @@
 	<key>ScoreServiceDomain</key>
 	<dict>
 		<key>ScoreServiceDomainUrl</key>
-		<string>https:/score-config.172tt.com</string>
+		<string>https://score-config.172tt.com</string>
 		<key>ScoreServiceDomainDebugUrl</key>
 		<string>http://score-config-test.172tt.com</string>
+	</dict>
+	<key>DeletionAccountDomain</key>
+	<dict>
+		<key>DeletionAccountDomainUrl</key>
+		<string>https://account.172tt.com/accountcenter/#/delete-account</string>
+		<key>DeletionAccountDomainDebugUrl</key>
+		<string>https://account-test.172tt.com/accountcenter/#/delete-account</string>
 	</dict>
 </dict>
 </plist>

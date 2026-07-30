@@ -22,7 +22,7 @@
 
 "kBtNativePhoneLoginText" = "手 机 号 登 录";
 
-"kAgreeProtocolText" = "注册表示您同意天梯用户协议";
+"kAgreeProtocolText" = "注册表示您同意用户协议";
 
 "kBtNativeChooseOtherLoginText" = "请选择其它登录方式";
 
@@ -156,9 +156,9 @@
 
 "kTiantiUserCenter" = "用户中心";
 
-"permissionPolicy" = "天梯游戏许可及服务协议";
+"permissionPolicy" = "服务协议";
 
-"privatePolicy" = "天梯游戏隐私政策";
+"privatePolicy" = "隐私政策";
 
 "kHaveReadPrivatePolicy" = "已阅读并同意《用户协议》和《隐私政策》";
 
@@ -166,7 +166,7 @@
 
 "kGameLimitUserTest" = "游戏限号测试";
 
-"kChangeDeviceTip" = "(请更换设备登录或切换账号)";
+//"kChangeDeviceTip" = "(请更换设备登录或切换账号)";
 
 "kBindSuccess" = "绑定成功";
 
@@ -174,13 +174,26 @@
 
 "kButtonCancle" = "取消";
 
-"kTiantiGameProtocol" = "《天梯游戏许可及服务协议》";
+"kTiantiGameProtocol" = "《游戏许可及服务协议》";
 
 "kPhoneNumLoginText" = "并使用本机号码登录";
 
 "kReadProtocolTip" = "请先阅读并同意用户协议";
 
 "kPhoneLoginFailTip" = "登录失败，请检查蜂窝网络后重试或使用其他账号登录";
+"kPhoneLoginCheckSimTip" = "请安装SIM卡";
+"kPhoneLoginCheckNetworkTip" = "请检查移动网络开启后重试";
+"kPhoneLoginServiceUnavailableTip" = "当前服务暂时不可用，请使用其它方式登录";
+
+"kOneKeyLoginGuideTitle" = "温馨提示";
+
+"kOneKeyLoginGuideSubtitle" = "体验本机号码一键登录，免验证码！";
+
+"kOneKeyLoginGuideContent" = "1. 请确认打开移动网络（关闭Wi-Fi更稳定）\n2. 请确认当前流量卡的号码作为“本机号码”登录\n3. 点击下方本机号码一键登录";
+
+"kOneKeyLoginGuideCancel" = "取消";
+
+"kOneKeyLoginGuideConfirm" = "本机号码一键登录";
 
 "kPhoneNumLogin" = "本机号码一键登录";
 
@@ -200,7 +213,7 @@
 
 "kAlertAccountLimitText" = "游戏限号测试";
 
-"kAlertAccountExchangeTip" = "(请更换设备登录或切换账号)";
+//"kAlertAccountExchangeTip" = "(请更换设备登录或切换账号)";
 
 "kAlertExchangeAccount" = "切换账号";
 
@@ -220,7 +233,7 @@
 
 "kAlertBtnCommitDel" = "确认删除";
 
-"kAccountCancleTip" = "您的账号正在注销中，可前往【天梯用户中心-注销】取消注销申请";
+"kAccountCancleTip" = "您的账号正在注销中，可前往【用户中心-注销】取消注销申请";
 
 "kQrScanTip" = "温馨提示";
 
@@ -234,4 +247,4 @@
 
 "kBtZcTokenValidTip" = "登录态已失效，请重新登录";
 
-"kBtSdkEnvTip" = "测试环境版本，请勿对外发布！";
+"kBtSdkEnvTip" = "测试环境版本，仅限内部使用";
